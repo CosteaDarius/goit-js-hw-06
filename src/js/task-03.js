@@ -12,3 +12,6 @@ const images = [
     alt: 'Group of Horses Running',
   },
 ];
+
+const galery = document.querySelector('#gallery')
+const galleryMarkup = images.map()
